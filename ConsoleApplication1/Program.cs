@@ -10,6 +10,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("My Project to GitHub");
+            Console.WriteLine("My surname is Pavlenko");
             Console.ReadKey();
         }
     }
